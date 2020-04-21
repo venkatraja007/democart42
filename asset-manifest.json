@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/democart42/static/css/main.fa996911.chunk.css",
+    "main.css": "/democart42/static/css/main.02336354.chunk.css",
     "main.js": "/democart42/static/js/main.598904d4.chunk.js",
     "main.js.map": "/democart42/static/js/main.598904d4.chunk.js.map",
     "runtime-main.js": "/democart42/static/js/runtime-main.437e5fd0.js",
@@ -8,16 +8,16 @@
     "static/js/2.968bab2d.chunk.js": "/democart42/static/js/2.968bab2d.chunk.js",
     "static/js/2.968bab2d.chunk.js.map": "/democart42/static/js/2.968bab2d.chunk.js.map",
     "index.html": "/democart42/index.html",
-    "precache-manifest.768d6b705d98506af98a2551d02e21ab.js": "/democart42/precache-manifest.768d6b705d98506af98a2551d02e21ab.js",
+    "precache-manifest.6fdc1ba0990a3170ce5e874635c56ebc.js": "/democart42/precache-manifest.6fdc1ba0990a3170ce5e874635c56ebc.js",
     "service-worker.js": "/democart42/service-worker.js",
-    "static/css/main.fa996911.chunk.css.map": "/democart42/static/css/main.fa996911.chunk.css.map",
+    "static/css/main.02336354.chunk.css.map": "/democart42/static/css/main.02336354.chunk.css.map",
     "static/js/2.968bab2d.chunk.js.LICENSE.txt": "/democart42/static/js/2.968bab2d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/democart42/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.437e5fd0.js",
     "static/js/2.968bab2d.chunk.js",
-    "static/css/main.fa996911.chunk.css",
+    "static/css/main.02336354.chunk.css",
     "static/js/main.598904d4.chunk.js"
   ]
 }
